@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Cubemap/miramar_negx.webp</file>
+        <file>Cubemap/miramar_negy.webp</file>
+        <file>Cubemap/miramar_negz.webp</file>
+        <file>Cubemap/miramar_posx.webp</file>
+        <file>Cubemap/miramar_posy.webp</file>
+        <file>Cubemap/miramar_posz.webp</file>
+        <file>Cubemap/specular.dds</file>
+    </qresource>
+</RCC>

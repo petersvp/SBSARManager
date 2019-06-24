@@ -1,0 +1,41 @@
+QFrame[CategoryLabel=true]
+{
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #ccc, stop:1 #eee);
+}
+QFrame[CategoryLabel=true]>QLabel
+{
+	padding: 5px;
+	font-size: 16px;	
+	color:black;
+}
+
+QLabel[ObjectInspectorGroup=true]
+{
+	background:qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #ccc, stop:1 #eee);
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 12px;	
+	font-weight: bold;
+	color:black;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+
+QWidget[PresetView=true]
+{
+	background: white;
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+
+QLabel[EmptyPresetLabel=true]
+{
+	font-size: 12px;
+	color: #aaa;
+}
+
+QLabel[Light=true]
+{
+	font-size: 12px;
+	color: #aaa;
+}

@@ -1,0 +1,2 @@
+RGBM: RGB(baseColor) A(metallic)
+NRMS: RGB(normal) A(roughness)
